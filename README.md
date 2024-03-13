@@ -1,9 +1,15 @@
 # P1-Neon-buttons
+<b>
  Neaon animated button using Html CSS
- <br>
-Visit Site :
+</b>
+ <br><br>
+ <b>Visit Site :</b>
+
 <br>
 https://rohan-rccodes.github.io/P1-Neon-buttons/
-
-Here Preview of the Template
-<img src="" alt="Neon Template">
+<br>
+<br>
+<b>Here Preview of the Template : </b>
+<br>
+<br>
+<img src="https://github.com/Rohan-rccodes/P1-Neon-buttons/blob/main/img/Neon-Template.png" alt="Neon Template" width="700">
